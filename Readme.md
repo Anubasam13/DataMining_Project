@@ -32,34 +32,31 @@ We explore trends and apply ML techniques to better understand patterns and infl
 
 ## 📂 Repository Structure
 
+- Data set - Denton Accidents
+- Lab1
+- Lab2
+- Lab3
+- Lab4
+- Readme.md file
 
 ---
 
 ## 🧪 Lab Summaries
 
-### ✅ Lab 1: Data Exploration
+### ✅ Data Exploration
 - Data types, missing values
 - Distribution of crash dates, times, surface conditions, weather
 - Initial visuals to understand scene clearance time
 
-### ✅ Lab 2: K-Means Clustering
+### ✅ K-Means Clustering
 - Grouped crash events into clusters
 - Explored if patterns emerge in time/location/surface/clearance
 
-### ✅ Lab 3: Classification
+### ✅ Classification
 - Predicted crash severity using features like road class, weather, surface, etc.
 - Models: KNN, Decision Tree
 - Evaluated accuracy, precision, recall
 
-### ✅ Lab 4: Regression
+### ✅ Regression
 - Predicted total scene clearance time using linear regression
 - Identified factors affecting time duration
-
----
-
-## ⚙️ Setup & Run
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/your-username/denton-crash-scene-clearance.git
-cd denton-crash-scene-clearance
