@@ -1,6 +1,6 @@
 # 🚧 Crash Scene Clearance Time Analysis – Denton, Texas
 
-This project is part of my graduate coursework in **Data Mining and Machine Learning**, focusing on crash data in Denton, Texas, sourced from the Texas Department of Transportation (TxDOT). The main objective is to analyze the **time taken to clear accident scenes** and uncover patterns using supervised and unsupervised machine learning techniques.
+This project focuses on crash data in Denton, Texas, sourced from the Texas Department of Transportation (TxDOT). The main objective is to analyze the **time taken to clear accident scenes** and uncover patterns using supervised and unsupervised machine learning techniques.
 
 ---
 
